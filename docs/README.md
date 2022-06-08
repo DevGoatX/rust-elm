@@ -86,7 +86,7 @@ When you access `localhost:8000/` it renders the `index.html` file.
 
 #### Docker Testing
 
-We're using `dgoss` to test the docker-image, see: https://github.com/aelsabbahy/goss/.
+We're using `dgoss` to test the docker-image.
 
 Check `docker/goss.yaml` for more info.
 
